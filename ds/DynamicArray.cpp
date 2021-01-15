@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//Simple implementation of dynamic array
 class DynamicArray
 {
 private:
