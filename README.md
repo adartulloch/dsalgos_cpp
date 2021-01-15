@@ -13,4 +13,8 @@ Binary Heap
 Fibonacci Heap
 Undirected & Directed Graphs
 vEB Tree
+DSU (disjoin-set union)
+Segment Tree
+Trie
+
 
